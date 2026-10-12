@@ -1,6 +1,6 @@
 # Langfuse v3 — open-source LLM observability, tracing, evals and prompt management. Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/TEMPLATE_CODE)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/IWuNP-)
 
 ## Services
 | Service | Image | Notes |
